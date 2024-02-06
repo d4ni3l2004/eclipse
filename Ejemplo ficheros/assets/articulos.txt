@@ -1,0 +1,5 @@
+manzana@1@manzana fresca
+melon@5@melon de la huerta
+langostinos@15@langonstinos congelados preparados para hacer a la plancha
+Chocolate@0.01@El mejor chocolate
+Palomitas@1.25@Palomitas de maiz saladas
